@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RandomNum</string>
+    <string name="buttonRandom">Генерация_Случ.чисел</string>
+    <string name="textRandom" />
+    <string name="textRandom2">Это случайное число между 0 и %1d</string>
+    <string name="textview_RandomR">R</string>
+</resources>
